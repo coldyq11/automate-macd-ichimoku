@@ -32,8 +32,8 @@ SYMBOLS = {
     "Gold (XAU/USD)":  "XAU/USD",
     "Cocoa (Kakao)":   "CC",
     "Crude Oil (WTI)": "CL",
-    "Brent Oil":       "BRENT",
-    "US100 (Nasdaq)":  "NDX",
+    "Brent Oil":       "BZ",
+    "US100 (Nasdaq)":  "QQQ",
 }
 
 INTERVAL        = "15min"
