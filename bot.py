@@ -31,8 +31,8 @@ TWELVEDATA_URL = "https://api.twelvedata.com/time_series"
 SYMBOLS = {
     "Gold (XAU/USD)":  "XAU/USD",
     "Cocoa (Kakao)":   "CC",
-    "Crude Oil (WTI)": "CL",
-    "Brent Oil":       "BZ",
+    "Crude Oil (WTI)": "WTIUSD",
+    "Brent Oil":       "BZUSD",
     "US100 (Nasdaq)":  "QQQ",
 }
 
